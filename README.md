@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Pippa 🥰 
+
+I started coding two years ago when I tried out a SheCodes course. I loved it and went onto do the Northcoders Software Bootcamp. I now work as a Junior Software Engineer and Mentor for Northcoders. 
+
+# My Stack
+visualstudio logo html5 logo css3 logo  javascript logo react logo nodejs logo  typescript logo postgresql logo amazonwebservices logo docker logo 
+
+
+🔭 I’m currently learning Three.js 
 
 <!--
 **pippaamy/pippaamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
