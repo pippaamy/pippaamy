@@ -1,6 +1,6 @@
 ### Hi there, I'm Pippa 🥰 
 
-I'm a former Orchestral Musician now a Junior Software Engineer. I started coding two years ago when I tried out a SheCodes course. I loved it and went onto do the Northcoders Software Bootcamp. I now work as a Junior Software Engineer and Mentor for Northcoders. 
+I'm a former Orchestral Musician now a Junior Software Engineer. I started coding two years ago when I tried out a SheCodes course. I loved it and went onto do the Northcoders Software Bootcamp. I now work as a Frontend Engineer for TGG ltd. 
 
 
 🕵️‍♀️ I’m currently learning C#
